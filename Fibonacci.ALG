@@ -1,4 +1,4 @@
-Algoritmo "semnome"
+Algoritmo "Fibonacci"
 
 
 var
